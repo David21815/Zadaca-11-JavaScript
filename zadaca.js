@@ -9,7 +9,7 @@ function validateNum(num){
             console.log();
         }
         else {
-            throw "The phone number is invalid!";
+            throw "The phone number is invalid";
             break;
         }
     }
